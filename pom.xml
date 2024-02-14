@@ -26,7 +26,6 @@
     <version>2.5</version>
 </dependency>
 </dependencies>
-</dependency>
 <build>
     <plugins>
         <plugin>
@@ -36,7 +35,6 @@
         </plugin>
     </plugins>
 </build>
-</dependency>
 </dependencies>
 </dependencies>
 <distributionManagement>

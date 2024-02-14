@@ -25,6 +25,7 @@
     <artifactId>servlet-api</artifactId>
     <version>2.5</version>
 </dependency>
+</dependencies>
 </dependency>
 <build>
     <plugins>
@@ -36,6 +37,7 @@
     </plugins>
 </build>
 </dependency>
+</dependencies>
 </dependencies>
 <distributionManagement>
   <repository>

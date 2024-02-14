@@ -39,6 +39,15 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>3.2.3</version> <!-- Use a compatible version -->
             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version> <!-- Use a compatible version -->
+                <configuration>
+                    <source>7</source>
+                    <target>7</target>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
     

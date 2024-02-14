@@ -36,7 +36,6 @@
     </plugins>
 </build>
 </dependencies>
-</dependencies>
 <distributionManagement>
   <repository>
     <id>releases</id>
